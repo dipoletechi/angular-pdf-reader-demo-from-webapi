@@ -1,4 +1,4 @@
 
-packages/
-pdfreaderdemo/bin/
-pdfreaderdemo/obj/
+server/PDFServer/.vs/
+server/PDFServer/PDFServer/bin/
+server/PDFServer/PDFServer/obj/
