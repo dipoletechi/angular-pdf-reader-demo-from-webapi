@@ -1,0 +1,6 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div>
+  <label *ngIf="isLoading">Loading pdf please wait..</label>
+  <input type="button" *ngIf="!isLoading" (click)="openPDF()" value="Download PDF"/>
+</div>
+<router-outlet></router-outlet>
